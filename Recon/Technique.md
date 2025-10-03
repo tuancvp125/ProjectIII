@@ -32,4 +32,4 @@ Modular/plugin architecture — download additional modules (ransomware, miners,
 
 **Encryption / obfuscation** — encoded payloads, encrypted C2 traffic, packers, custom XOR/RC4/ChaCha obfuscation.
 
-**Bypass AV **
+**Bypass AV**
